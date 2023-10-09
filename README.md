@@ -1,2 +1,2 @@
 # Tamagotchi
-Our virtual pet program!
+Simple virtual pet developed in Python
